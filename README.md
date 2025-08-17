@@ -1,2 +1,16 @@
-# Netflix-Clone
-Netflix Homepage Clone built with plain HTML &amp; CSS. Responsive design, hover effects, and Netflix-like UI recreated without frameworks.
+# Netflix Homepage Clone  
+
+A simple **Netflix Homepage Clone** built using only **HTML & plain CSS**.  
+This project recreates the Netflix landing page layout.
+
+## 🚀 Live Demo  
+👉 [View on GitHub Pages](https://shreyansh157.github.io/movie-websilte-clone/)  
+
+## 🛠️ Technologies UsedTech Stack  
+- **HTML**  
+- **CSS**  
+- **No frameworks, no libraries**  
+
+
+## 👤 Author  
+Made by **Shreyansh Singh**  
