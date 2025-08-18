@@ -6,7 +6,7 @@ This project recreates the Netflix landing page layout.
 ## 🚀 Live Demo  
 👉 [View on GitHub Pages](https://shreyansh157.github.io/movie-websilte-clone/)  
 
-## 🛠️ Technologies UsedTech Stack  
+## 🛠️ Technologies Used
 - **HTML**  
 - **CSS**  
 - **No frameworks, no libraries**  
